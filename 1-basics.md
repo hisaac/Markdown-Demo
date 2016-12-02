@@ -1,16 +1,18 @@
 # Basics
 
-Italic or Bold text
+Italic, Bold, or crossed out text
 
-- unordered
-- list
-- items
+Unordered
+List
+Items
 
 
-1. ordered
-2. list
-3. items
+Ordered
+List
+Items
 
-Well, what if you wanted to cite someone's brilliant speech about Markdown? Well, this is how you'd do it. —Isaac Halvorson
+Well, what if you wanted to cite someone's brilliant technology presentation? How would you do that in Markdown, hot shot?
+
+— Isaac Halvorson
 
 Markdown Logo
