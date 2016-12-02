@@ -13,6 +13,7 @@
 - Brackets
 - Coda
 - Dash
+- Day One
 - Kaleidoscope
 - PHP Storm
 - Sublime Text
@@ -44,6 +45,7 @@
 - Editorial
 - Dropbox
 - Workflow
+- Day One
 - CodeHub
 - Working Copy
 - Medium
