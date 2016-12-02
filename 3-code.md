@@ -1,3 +1,7 @@
+Inline code — `console.log('Wow Markdown!')` — is good for short snippets.
+
+But for multi-line pieces of code, a code block is best.
+
 ```javascript
 self.logIn = function(){
   auth.$signInWithPopup('google').then(function(firebaseUser){
